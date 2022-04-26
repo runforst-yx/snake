@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    //被编译的版本
+    "target": "ES6",
+    // 指定使用的模块化规范
+    "module": "ES6",
+    "strict": true,
+    "noEmitOnError": true
+  }
+}
